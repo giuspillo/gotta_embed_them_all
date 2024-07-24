@@ -1,0 +1,12 @@
+data_path: datasets/
+LABEL_FIELD: label
+benchmark_filename: ['train', 'valid', 'test']
+dataset: 'movielens'
+checkpoint_dir: saved/movielens/
+epochs: 30
+train_batch_size: 1024
+learner: adam
+learning_rate: 0.001
+eval_step: 1
+stopping_step: 10000
+seed: 42

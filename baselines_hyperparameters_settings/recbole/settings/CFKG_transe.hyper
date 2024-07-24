@@ -1,0 +1,3 @@
+embedding_size choice [64, 128, 256, 384]
+loss_function choice ['transe']
+margin choice [0.5, 1, 2]

@@ -1,0 +1,7 @@
+Due to the high dimenionality of the files, please download them from the following links.
+We will weekly check the links work, and in case of problems we will update them.
+
+
+Text:
+- movielens: https://mega.nz/file/y08W3JJa#V_fhG69GkKnGHF2wpXe20uSRgvCHdHBLUhnUeQiSF-s
+- dbook: https://mega.nz/file/vxc3TbjS#yz7Z9m0LxL93T1VxefvYf-Ec3FMhCVg7G1vDQIRgtIA

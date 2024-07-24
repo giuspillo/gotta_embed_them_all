@@ -1,0 +1,3 @@
+embedding_size choice [64, 128, 256, 384]
+aggregator choice ['concat', 'sum', 'neighbor']
+neighbor_sample_size choice [2, 4]

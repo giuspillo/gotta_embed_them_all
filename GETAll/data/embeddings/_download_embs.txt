@@ -1,0 +1,11 @@
+Due to the high dimenionality of the files, please download them from the following links.
+We will weekly check the links work, and in case of problems we will update them.
+
+Embeddings: https://mega.nz/file/ChdSVKjb#vH3c1_T2RfVyCqBOVPajmKs8j6OZmMChV5USjHVw7IA
+
+This folder contains all the embeddings we used in our experiments:
+> graph embeddings
+> text embeddings
+> image embeddings
+> video embeddings (only for ML1M)
+> audio embeddings (only for ML1M)

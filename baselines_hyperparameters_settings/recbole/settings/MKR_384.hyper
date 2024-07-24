@@ -1,0 +1,4 @@
+embedding_size choice [384]
+kg_embedding_size choice [384]
+low_layers_num choice [1]
+high_layers_num choice [1]

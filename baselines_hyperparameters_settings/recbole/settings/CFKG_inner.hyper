@@ -1,0 +1,2 @@
+embedding_size choice [64, 128, 256, 384]
+loss_function choice ['inner_product']

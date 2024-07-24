@@ -1,0 +1,3 @@
+embedding_size choice [64, 128, 256, 384]
+n_layers choice [1,2,3]
+type choice ['ED', 'ND', 'RW']

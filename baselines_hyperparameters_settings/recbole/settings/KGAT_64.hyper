@@ -1,0 +1,4 @@
+embedding_size choice [64]
+kg_embedding_size choice [64]
+mess_dropout choice [0.2, 0.4]
+layers choice ['[32, 16]']

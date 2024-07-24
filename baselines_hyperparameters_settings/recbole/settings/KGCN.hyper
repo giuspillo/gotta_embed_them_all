@@ -1,0 +1,3 @@
+embedding_size choice [64, '128', 256, 384]
+aggregator choice ['sum', 'concat']
+n_iter choice [1, 2]
