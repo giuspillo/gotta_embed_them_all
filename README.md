@@ -1,4 +1,4 @@
-This is the repository of the paper entitiled ***Gotte Embed Them All! - Knowledge-aware Recommendations Combining Heterogeneous Multi-Modal Item Embeddings***
+This is the repository of the paper entitiled ***Gotta Embed Them All! - Knowledge-aware Recommendations Combining Heterogeneous Multi-Modal Item Embeddings***
 
 In this repo, we have uploaded all the files necessary to reproduce our experiments.
 First, let us discuss the content and the structure of this repository.
