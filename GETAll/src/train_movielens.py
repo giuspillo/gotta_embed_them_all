@@ -112,7 +112,7 @@ def test(model: GETAllNetwork, test_ratings: pd.DataFrame, batch_size: int, devi
 
     model.to(device)
 
-    test_ds = GETALLDataset(test_ratings)
+    test_ds = GETAllDataset(test_ratings)
     test_dl = DataLoader(test_ds, shuffle=False, batch_size=batch_size)
     tqdm_bar = tqdm(test_dl)
 
